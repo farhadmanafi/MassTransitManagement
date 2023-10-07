@@ -1,0 +1,11 @@
+D:\MyGitHub\MassTransitManagement\MassTransitManagement\MassTransitContract\bin\Debug\net6.0\MassTransitContract.deps.json
+D:\MyGitHub\MassTransitManagement\MassTransitManagement\MassTransitContract\bin\Debug\net6.0\MassTransitContract.dll
+D:\MyGitHub\MassTransitManagement\MassTransitManagement\MassTransitContract\bin\Debug\net6.0\MassTransitContract.pdb
+D:\MyGitHub\MassTransitManagement\MassTransitManagement\MassTransitContract\obj\Debug\net6.0\MassTransitContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHub\MassTransitManagement\MassTransitManagement\MassTransitContract\obj\Debug\net6.0\MassTransitContract.AssemblyInfoInputs.cache
+D:\MyGitHub\MassTransitManagement\MassTransitManagement\MassTransitContract\obj\Debug\net6.0\MassTransitContract.AssemblyInfo.cs
+D:\MyGitHub\MassTransitManagement\MassTransitManagement\MassTransitContract\obj\Debug\net6.0\MassTransitContract.csproj.CoreCompileInputs.cache
+D:\MyGitHub\MassTransitManagement\MassTransitManagement\MassTransitContract\obj\Debug\net6.0\MassTransitContract.dll
+D:\MyGitHub\MassTransitManagement\MassTransitManagement\MassTransitContract\obj\Debug\net6.0\refint\MassTransitContract.dll
+D:\MyGitHub\MassTransitManagement\MassTransitManagement\MassTransitContract\obj\Debug\net6.0\MassTransitContract.pdb
+D:\MyGitHub\MassTransitManagement\MassTransitManagement\MassTransitContract\obj\Debug\net6.0\ref\MassTransitContract.dll
